@@ -1,0 +1,67 @@
+[
+  {
+    "file": "img/rice-field.jpg",
+    "source": "/Users/markusmoenig/ReadThaiDaily/App/Resources/Assets.xcassets/RiceFieldScene.imageset/scene.png",
+    "processing": "resized/compressed copy; original preserved"
+  },
+  {
+    "file": "img/phrae.jpg",
+    "source": "/Users/markusmoenig/ReadThaiDaily/App/Resources/Assets.xcassets/IntroductionScene.imageset/scene.png",
+    "processing": "resized/compressed copy; original preserved"
+  },
+  {
+    "file": "img/chiang-mai.jpg",
+    "source": "/Users/markusmoenig/ReadThaiDaily/App/Resources/Assets.xcassets/CMoldcity.imageset/scene.png",
+    "processing": "resized/compressed copy; original preserved"
+  },
+  {
+    "file": "img/bangkok.jpg",
+    "source": "/Users/markusmoenig/ReadThaiDaily/App/Resources/Assets.xcassets/BKboat.imageset/scene.png",
+    "processing": "resized/compressed copy; original preserved"
+  },
+  {
+    "file": "img/hua-hin.jpg",
+    "source": "/Users/markusmoenig/ReadThaiDaily/App/Resources/Assets.xcassets/HHcolors.imageset/scene.png",
+    "processing": "resized/compressed copy; original preserved"
+  },
+  {
+    "file": "img/farewell.jpg",
+    "source": "/Users/markusmoenig/ReadThaiDaily/App/Resources/Assets.xcassets/HHfarewell.imageset/scene.png",
+    "processing": "resized/compressed copy; original preserved"
+  },
+  {
+    "file": "img/chicken.jpg",
+    "source": "/Users/markusmoenig/ReadThaiDaily/App/Resources/Assets.xcassets/AssociationChicken.imageset/association.png",
+    "processing": "resized/compressed copy; original preserved"
+  },
+  {
+    "file": "img/app-icon.png",
+    "source": "/Users/markusmoenig/ReadThaiDaily/App/Resources/Assets.xcassets/AppIcon.appiconset/icon-ios-1024.png",
+    "processing": "resized/compressed copy; original preserved"
+  },
+  {
+    "file": "img/favicon.png",
+    "source": "/Users/markusmoenig/ReadThaiDaily/App/Resources/Assets.xcassets/AppIcon.appiconset/icon-ios-1024.png",
+    "processing": "resized/compressed copy; original preserved"
+  },
+  {
+    "file": "img/social-cover.jpg",
+    "source": "/Users/markusmoenig/ReadThaiDaily/App/Resources/Assets.xcassets/RiceFieldScene.imageset/scene.png",
+    "processing": "resized/compressed copy; original preserved"
+  },
+  {
+    "file": "screenshots/discover.svg",
+    "source": "Native Read Thai Daily Mac window capture, 8 October 2026 (discover)",
+    "processing": "Exact SVG viewport crop: removes the top 64-pixel OS/AI title bar from the image in all contexts. Original app-content pixels retained; visible size 2880 by 1816."
+  },
+  {
+    "file": "screenshots/talk.svg",
+    "source": "Native Read Thai Daily Mac window capture, 8 October 2026 (talk)",
+    "processing": "Exact SVG viewport crop: removes the top 64-pixel OS/AI title bar from the image in all contexts. Original app-content pixels retained; visible size 2880 by 1816."
+  },
+  {
+    "file": "screenshots/script.svg",
+    "source": "Native Read Thai Daily Mac window capture, 8 October 2026 (script)",
+    "processing": "Exact SVG viewport crop: removes the top 64-pixel OS/AI title bar from the image in all contexts. Original app-content pixels retained; visible size 2880 by 1816."
+  }
+]
