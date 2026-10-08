@@ -28,7 +28,7 @@ When connecting hosting, select `readthaidaily.com` as the custom domain and ena
 
 ## Continuous integration
 
-`.github/workflows/build.yml` builds the website on every push and pull request, and can also be run manually from GitHub Actions. It uses Node.js 24, installs the locked dependencies with `npm ci`, and runs the production build with internal link checks. It validates the site without deploying it.
+`.github/workflows/build.yml` builds the website on every push and pull request, and can also be run manually from GitHub Actions. It uses Node.js 24, installs the locked dependencies with `npm ci`, and runs the production build with internal link checks. Successful builds on `main` upload the `build/` artifact and deploy it to GitHub Pages at https://readthaidaily.com. Pull requests and other branches only validate the build. GitHub Pages must use **GitHub Actions** as its source; the custom domain is set in repository Pages settings.
 
 ## Content and assets
 
