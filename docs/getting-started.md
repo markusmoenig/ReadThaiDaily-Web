@@ -3,7 +3,7 @@ id: getting-started
 title: Your first steps into Thai
 sidebar_label: Getting started
 ---
-You can start Read Thai Daily without knowing a single Thai letter. The aim is simple: move from your first sounds and words to reading a small Thai story, step by step.
+You can start Read Thai Daily without knowing a single Thai letter. Begin with illustrated letters and familiar words, then build towards reading a short Thai story—one lesson at a time.
 
 ## Meet Dao and Din
 
