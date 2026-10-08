@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Read Thai Daily",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Read Thai Daily: nordthailändisches Haus als Symbol",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.How it works": {
+    "message": "So funktioniert’s",
+    "description": "Navbar item with label How it works"
+  },
+  "item.label.The journey": {
+    "message": "Die Reise",
+    "description": "Navbar item with label The journey"
+  },
+  "item.label.Learning guide": {
+    "message": "Lernleitfaden",
+    "description": "Navbar item with label Learning guide"
+  },
+  "item.label.Get the app ↗": {
+    "message": "App laden ↗",
+    "description": "Navbar item with label Get the app ↗"
+  }
+}

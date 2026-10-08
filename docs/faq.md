@@ -17,7 +17,7 @@ The approachable idea of following characters through everyday Thai life is an i
 
 ## What languages are supported?
 
-English, German, French and Spanish for the app interface and explanations. The target language is Thai. The website’s current guide is in English.
+English, German, French and Spanish for the app interface and explanations. The target language is Thai. The website and learning guide are also available in these four languages.
 
 ## Do I need a Thai keyboard?
 
@@ -33,11 +33,11 @@ Progress currently saves locally on each device. There is no cross-device progre
 
 ## What happens if a subscription expires?
 
-Phrae and Learn Thai Script remain accessible. Paid chapter progress stays saved for later; access to the paid lessons requires an active subscription again.
+The Phrae chapter and Learn Thai Script remain accessible. Paid chapter progress stays saved for later; access to the paid lessons requires an active subscription again.
 
 ## How much does it cost?
 
-Phrae and Learn Thai Script are free. Premium pricing is USD $2.99 monthly or $24.99 yearly. [See chapters and pricing](./chapters.md).
+The Phrae chapter and Learn Thai Script are free. Premium pricing is USD $2.99 monthly or $24.99 yearly. [See chapters and pricing](./chapters.md).
 
 ## How often are new chapters added?
 

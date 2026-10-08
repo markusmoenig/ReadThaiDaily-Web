@@ -3,19 +3,22 @@ id: lessons
 title: Inside a lesson
 sidebar_label: Lesson walkthrough
 ---
+
+import AppScreenshot from '@site/src/components/AppScreenshot';
+
 The picture stays connected to the language. A lesson moves through short activities, with explanations close to the word or symbol you are exploring.
 
 ## 1. Discover
 
 Begin with a large illustration. Tap a marker on a person, object or place to reveal the Thai word, its meaning and how it is written. Selected markers have a different highlight, so you can see what you are exploring.
 
-![Actual Discover screen on Mac](/screenshots/discover.svg)
+<AppScreenshot name="discover" alt="Actual Discover screen on Mac" />
 
 ## 2. Talk
 
 Meet short sentences built around the scene. Thai words are individually selectable, making word boundaries easier to see. Tap a word for its explanation; tap one of its written parts to explore that consonant or vowel.
 
-![Actual Talk screen showing นา and its explanation](/screenshots/talk.svg)
+<AppScreenshot name="talk" alt="Actual Talk screen showing a selected word and its explanation" />
 
 **Listen** uses the device’s Thai system voice. **Slow** uses a slower speech rate for a closer listen. Available voices depend on the device; a preferred male or female voice may not be installed, so the app can use a fallback voice.
 

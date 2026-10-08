@@ -33,10 +33,10 @@ When connecting hosting, select `readthaidaily.com` as the custom domain and ena
 ## Content and assets
 
 - `src/pages/index.jsx`: custom landing page, interactive word demo and screenshot gallery.
-- `src/css/custom.css`: responsive cream, terracotta and forest-green styling.
+- `src/css/custom.css`: responsive light and dark styling, with cream, terracotta and forest-green accents.
 - `docs/`: getting started, lessons, script, chapters/pricing, download, FAQ, about and privacy.
 - `static/img/`: optimized copies of original Read Thai Daily artwork and app icon.
-- `static/screenshots/`: real Mac window captures, taken 8 October 2026. SVG viewport crops remove the OS/AI title strip from the image itself, in the gallery, enlarged viewer and guide pages. App content is unchanged.
+- `static/screenshots/`: real dark Mac window captures, taken 8 October 2026. SVG viewport crops remove the OS/AI title strip from the image itself, in the gallery, enlarged viewer and guide pages. App content is unchanged.
 - `static/asset-provenance.json`: source paths and capture details.
 - Fonts are hosted locally through Fontsource (package licenses are retained in node_modules).
 
@@ -48,7 +48,15 @@ The homepage, chapter guide and FAQ state that a new chapter is added every mont
 
 ## Localization
 
-The guide is currently English. Docusaurus i18n is configured with English as the default; further site languages can be added through its standard translation folders. The app’s four teaching languages are described separately.
+The homepage, navigation, interactive word demo and all eight guide pages support English, German, French and Spanish. English is served at `/`, with translations at `/de/`, `/fr/` and `/es/`. The navbar language switcher preserves the corresponding page. Trailing slashes keep locale roots and GitHub Pages directory routes consistent. `npm run build` builds all four locales; CI deploys the complete output together.
+
+Homepage copy uses Docusaurus `translate()` with English defaults in `src/pages/index.jsx` and translated messages in `i18n/{locale}/code.json`. Guide translations live in `i18n/{locale}/docusaurus-plugin-content-docs/current/`; navbar and footer copy live in the matching `docusaurus-theme-classic` folders. See the [Docusaurus localization guide](https://docusaurus.io/docs/i18n/tutorial).
+
+Keep all translations in step when changing English content. Preview one locale with `npm start -- --locale de`; use `npm run build` and `npm run serve` to verify language switching across the complete static site.
+
+## Appearance and screenshots
+
+The site follows the visitor’s system appearance until they choose a theme with the navbar switch. `AppScreenshot` uses Docusaurus `ThemedImage` to show the light captures in `static/screenshots/light/` or the dark captures in `static/screenshots/`. The homepage gallery, enlarged dialog and guide screenshots all use the same component. The screenshots show the English app UI; the surrounding explanations are translated.
 
 ## Before publication
 

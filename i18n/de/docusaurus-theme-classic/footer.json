@@ -1,0 +1,54 @@
+{
+  "link.title.Read Thai Daily": {
+    "message": "Read Thai Daily",
+    "description": "The title of the footer links column with title=Read Thai Daily in the footer"
+  },
+  "link.title.Start reading": {
+    "message": "Mit dem Lesen beginnen",
+    "description": "The title of the footer links column with title=Start reading in the footer"
+  },
+  "link.title.The app": {
+    "message": "Die App",
+    "description": "The title of the footer links column with title=The app in the footer"
+  },
+  "link.item.label.How it works": {
+    "message": "So funktioniert’s",
+    "description": "The label of footer link with label=How it works linking to /#how-it-works"
+  },
+  "link.item.label.Chapters & pricing": {
+    "message": "Kapitel & Preise",
+    "description": "The label of footer link with label=Chapters & pricing linking to /#chapters"
+  },
+  "link.item.label.About the project": {
+    "message": "Über das Projekt",
+    "description": "The label of footer link with label=About the project linking to /guide/about"
+  },
+  "link.item.label.Getting started": {
+    "message": "Erste Schritte",
+    "description": "The label of footer link with label=Getting started linking to /guide/getting-started"
+  },
+  "link.item.label.The Thai script": {
+    "message": "Die Thai-Schrift",
+    "description": "The label of footer link with label=The Thai script linking to /guide/thai-script"
+  },
+  "link.item.label.Lesson walkthrough": {
+    "message": "Eine Lektion kennenlernen",
+    "description": "The label of footer link with label=Lesson walkthrough linking to /guide/lessons"
+  },
+  "link.item.label.Download": {
+    "message": "Download",
+    "description": "The label of footer link with label=Download linking to /guide/download"
+  },
+  "link.item.label.Common questions": {
+    "message": "Häufige Fragen",
+    "description": "The label of footer link with label=Common questions linking to /guide/faq"
+  },
+  "link.item.label.Privacy": {
+    "message": "Datenschutz",
+    "description": "The label of footer link with label=Privacy linking to /guide/privacy"
+  },
+  "copyright": {
+    "message": "© 2026 Read Thai Daily. Entstanden in Phrae. Von Phrae in die Welt.",
+    "description": "The footer copyright"
+  }
+}

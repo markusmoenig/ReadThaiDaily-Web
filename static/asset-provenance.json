@@ -63,5 +63,20 @@
     "file": "screenshots/script.svg",
     "source": "Native Read Thai Daily Mac window capture, 8 October 2026 (script)",
     "processing": "Exact SVG viewport crop: removes the top 64-pixel OS/AI title bar from the image in all contexts. Original app-content pixels retained; visible size 2880 by 1816."
+  },
+  {
+    "file": "screenshots/light/discover.png",
+    "source": "/Users/markusmoenig/ReadThaiDaily/docs/app-store/screenshots/mac-discover.png",
+    "processing": "Unmodified light-theme native app capture, 8 October 2026; 2880 by 1800 pixels. OS title bar excluded during capture."
+  },
+  {
+    "file": "screenshots/light/talk.png",
+    "source": "/Users/markusmoenig/ReadThaiDaily/docs/app-store/screenshots/mac-talk.png",
+    "processing": "Unmodified light-theme native app capture, 8 October 2026; 2880 by 1800 pixels. OS title bar excluded during capture."
+  },
+  {
+    "file": "screenshots/light/script.png",
+    "source": "/Users/markusmoenig/ReadThaiDaily/docs/app-store/screenshots/mac-script.png",
+    "processing": "Unmodified light-theme native app capture, 8 October 2026; 2880 by 1800 pixels. OS title bar excluded during capture."
   }
 ]

@@ -28,7 +28,7 @@ Each chapter has ten lessons and a longer final reading that reuses its vocabula
 
 ## Choose your teaching language
 
-The app supports **English, German, French and Spanish** for its interface and explanations. Thai remains the language you read and hear. The website’s current guide is in English.
+The app supports **English, German, French and Spanish** for its interface and explanations. Thai remains the language you read and hear. The website and learning guide are also available in these four languages.
 
 ## Your devices
 

@@ -234,3 +234,40 @@ button {font-family:inherit;}
 .monthly-chapter h3 {font-size:32px;margin:12px 0;color:var(--ink);}
 .monthly-chapter p {font-size:14px;max-width:700px;}
 @media(max-width:700px) {.monthly-chapter {padding:23px;} .monthly-chapter h3 {font-size:28px;} .hero-actions .cta {gap:18px;}}
+
+/* Dark appearance uses the same quiet Thai palette and the matching app captures. */
+html[data-theme='dark'] {
+  --paper:#191d2b; --ink:#f4e9d6; --muted:#c0b7a6; --clay:#eeaa8c; --gold:#d5b877; --line:#454959;
+  --ifm-color-primary:#eeaa8c; --ifm-color-primary-dark:#e79676; --ifm-color-primary-darker:#df8867;
+  --ifm-color-primary-darkest:#c96c4d; --ifm-color-primary-light:#f4bca5;
+  --ifm-color-primary-lighter:#f7c8b5; --ifm-color-primary-lightest:#fadacf;
+  --ifm-background-color:var(--paper); --ifm-background-surface-color:#25293b;
+  --ifm-font-color-base:var(--ink); --ifm-heading-color:var(--ink); --ifm-navbar-background-color:var(--paper);
+  --ifm-footer-background-color:#222638; --ifm-link-color:var(--clay);
+}
+[data-theme='dark'] .word-reveal {background:#25293b;border-color:var(--line);}
+[data-theme='dark'] .picture-hint {background:#191d2be8;}
+[data-theme='dark'] .part {background:#33384b;}
+[data-theme='dark'] .scene-marker {background:#aac2ef;color:#192438;border-color:#25293b;}
+[data-theme='dark'] .scene-marker.is-selected,[data-theme='dark'] .scene-marker:hover {background:var(--clay);}
+[data-theme='dark'] .cta {background:#ad513c;border-color:#ad513c;}
+[data-theme='dark'] .cta:hover {background:#c3654e;}
+[data-theme='dark'] .nav-download {background:#a9503b;}
+[data-theme='dark'] .woven-divider {background-color:#33384b;}
+[data-theme='dark'] .app-window,[data-theme='dark'] .window-bar {background:#25293b;border-color:var(--line);}
+[data-theme='dark'] .app-window figcaption {background:#25293b;}
+[data-theme='dark'] .script-feature {background:#222638;border-color:var(--line);}
+[data-theme='dark'] .letter-card,[data-theme='dark'] .vowel-strip {background:#2a2e40;border-color:var(--line);}
+[data-theme='dark'] .letter-card>img {mix-blend-mode:normal;}
+[data-theme='dark'] .chapter-image {background:#25293b;}
+[data-theme='dark'] .chapter-number {background:#191d2bea;}
+[data-theme='dark'] .paid-plan {background:#3a2d2b;border-color:#745345;}
+/* Translated labels can be longer than the English originals. */
+.lesson-steps h3 {flex-wrap:wrap;overflow-wrap:anywhere;}
+.word-identity .eyebrow {white-space:normal;}
+.navbar__item {margin-left:6px;}
+html[lang='de'] .hero h1,html[lang='fr'] .hero h1,html[lang='es'] .hero h1 {font-size:clamp(42px,4.7vw,68px);}
+@media(max-width:700px) {
+  html[lang='de'] .hero h1,html[lang='fr'] .hero h1,html[lang='es'] .hero h1 {font-size:clamp(40px,8.5vw,60px);}
+  .picture-hint {max-width:calc(100% - 32px);font-size:10px;}
+}

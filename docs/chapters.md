@@ -43,7 +43,7 @@ Explore the sea, sand and shoreline. Learn seven colors through beach objects, w
 
 Subscription prices are **USD $2.99 per month** or **USD $24.99 per year**, with the same premium chapter access on either plan. An annual subscription is billed upfront. App Store prices in other currencies may vary.
 
-Learn Thai Script and Phrae stay free. Subscriptions renew automatically unless cancelled through Apple’s subscription settings. Expiration removes access to paid content while retaining your saved learning progress.
+Learn Thai Script and the Phrae chapter stay free. Subscriptions renew automatically unless cancelled through Apple’s subscription settings. Expiration removes access to paid content while retaining your saved learning progress.
 
 **A new chapter every month** is included in either subscription plan.
 

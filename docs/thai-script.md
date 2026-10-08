@@ -3,9 +3,12 @@ id: thai-script
 title: A script you can explore
 sidebar_label: The Thai script
 ---
+
+import AppScreenshot from '@site/src/components/AppScreenshot';
+
 Thai writing can look unfamiliar at first. Read Thai Daily breaks it into individual consonants and vowel patterns, with a picture, a sound and a short explanation for each.
 
-![Learn Thai Script on Mac](/screenshots/script.svg)
+<AppScreenshot name="script" alt="Learn Thai Script on Mac" />
 
 ## Consonants in three classes
 

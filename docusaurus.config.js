@@ -5,10 +5,18 @@ const config = {
   favicon: 'img/favicon.png',
   url: 'https://readthaidaily.com',
   baseUrl: '/',
-  trailingSlash: false,
+  trailingSlash: true,
   onBrokenLinks: 'throw',
   onBrokenAnchors: 'throw',
-  i18n: { defaultLocale: 'en', locales: ['en'] },
+  i18n: {
+    defaultLocale: 'en', locales: ['en', 'de', 'fr', 'es'],
+    localeConfigs: {
+      en: {label: 'English', htmlLang: 'en'},
+      de: {label: 'Deutsch', htmlLang: 'de'},
+      fr: {label: 'Français', htmlLang: 'fr'},
+      es: {label: 'Español', htmlLang: 'es'},
+    },
+  },
   presets: [['classic', {
     docs: { sidebarPath: './sidebars.js', routeBasePath: 'guide' },
     blog: false,
@@ -17,10 +25,9 @@ const config = {
   themeConfig: {
     image: 'img/social-cover.jpg',
     metadata: [
-      {name:'description', content:'Learn to read Thai step by step with Dao and Din. Illustrated stories, an interactive script map, and a journey from Phrae to the rest of Thailand. For iPhone, iPad and Mac.'},
       {name:'theme-color',content:'#faf6ed'},
     ],
-    colorMode: {defaultMode:'light',disableSwitch:true,respectPrefersColorScheme:false},
+    colorMode: {defaultMode:'light',disableSwitch:false,respectPrefersColorScheme:true},
     navbar: {
       title: 'Read Thai Daily',
       logo: {alt:'Read Thai Daily northern Thai house icon',src:'img/app-icon.png',width:36,height:36},
@@ -29,6 +36,7 @@ const config = {
         {to:'/#how-it-works',label:'How it works',position:'right'},
         {to:'/#chapters',label:'The journey',position:'right'},
         {to:'/guide/getting-started',label:'Learning guide',position:'right'},
+        {type:'localeDropdown',position:'right'},
         {href:appStoreUrl,label:'Get the app ↗',position:'right',className:'nav-download'},
       ],
     },

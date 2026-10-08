@@ -1,0 +1,671 @@
+{
+  "home.rice-field": {
+    "message": "arrozal"
+  },
+  "home.start-with-n-then-hold-the-long-aa-sound-the-vowel-is-written-after-the-": {
+    "message": "Empieza con n y prolonga el sonido a. La vocal se escribe después de la consonante."
+  },
+  "home.crow": {
+    "message": "cuervo"
+  },
+  "home.the-same-long-aa-vowel-with-a-different-consonant-one-small-change-makes": {
+    "message": "La misma vocal a larga con otra consonante. Un pequeño cambio crea una nueva palabra."
+  },
+  "home.snake": {
+    "message": "serpiente"
+  },
+  "home.the-ng-sound-of-meets-a-long-oo-vowel-this-vowel-is-written-underneath-t": {
+    "message": "El sonido ng de ง se combina con una u larga. Para ng, coloca la parte posterior de la lengua como para decir g, pero deja salir el aire por la nariz. Esta vocal se escribe debajo de la consonante."
+  },
+  "home.01-discover": {
+    "message": "01 / Descubrir"
+  },
+  "home.a-picture-is-your-first-teacher": {
+    "message": "Una imagen es tu primera profesora."
+  },
+  "home.explore-the-scene-before-you-try-to-read-it-tap-a-person-a-rice-field-or": {
+    "message": "Explora la escena antes de intentar leerla. Toca una persona, un arrozal o una serpiente para descubrir la palabra tailandesa."
+  },
+  "home.read-thai-daily-discover-mode-showing-dao-and-din-in-a-rice-field-with-i": {
+    "message": "El modo Descubrir de Read Thai Daily con Dao y Din en un arrozal y marcadores interactivos."
+  },
+  "home.02-talk": {
+    "message": "02 / Dialogar"
+  },
+  "home.one-small-sentence-at-a-time": {
+    "message": "Una pequeña frase cada vez."
+  },
+  "home.big-thai-text-clearly-selectable-words-and-a-meaning-panel-right-beside-": {
+    "message": "Texto tailandés grande, palabras seleccionables y un panel de significado junto a la historia. Escucha a velocidad normal o lenta y explora cada palabra."
+  },
+  "home.read-thai-daily-talk-mode-with-the-thai-word-audio-controls-and-an-expla": {
+    "message": "El modo Dialogar de Read Thai Daily con una palabra tailandesa seleccionada, controles de audio y explicaciones de su consonante y vocal."
+  },
+  "home.03-learn-thai-script": {
+    "message": "03 / Escritura tailandesa"
+  },
+  "home.every-letter-has-a-picture": {
+    "message": "Cada letra tiene una imagen."
+  },
+  "home.consonants-are-grouped-by-class-vowels-have-their-own-section-and-famili": {
+    "message": "Las consonantes se agrupan por clase y las vocales tienen su propia sección. Las imágenes familiares acompañan a cada símbolo en el mapa de escritura."
+  },
+  "home.read-thai-daily-learn-thai-script-showing-mid-class-consonants-and-an-il": {
+    "message": "El curso de escritura de Read Thai Daily con consonantes de clase media y una explicación ilustrada de consonante."
+  },
+  "home.start-here-free": {
+    "message": "Empieza aquí · Gratis"
+  },
+  "home.meet-dao-and-din-rice-fields-breakfast-market-days-and-a-little-life-in-": {
+    "message": "Conoce a Dao y Din. Arrozales, desayunos, días de mercado y vida cotidiana en el norte de Tailandia."
+  },
+  "home.continue-subscription": {
+    "message": "Continuar · Suscripción"
+  },
+  "home.catch-a-bus-settle-into-a-guesthouse-order-khao-soi-and-explore-the-old-": {
+    "message": "Viaja en autobús, alójate en una pensión, pide khao soi y explora el casco antiguo."
+  },
+  "home.explore-subscription": {
+    "message": "Explorar · Suscripción"
+  },
+  "home.trains-river-boats-caf-stops-and-making-plans-in-the-big-city": {
+    "message": "Trenes, barcos por el río, pausas en cafés y planes en la gran ciudad."
+  },
+  "home.by-the-sea-subscription": {
+    "message": "Junto al mar · Suscripción"
+  },
+  "home.beach-colors-seafood-weather-bicycles-and-a-sweet-stop-at-the-night-mark": {
+    "message": "Colores de la playa, marisco, tiempo, bicicletas y una parada dulce en el mercado nocturno."
+  },
+  "home.discover": {
+    "message": "Descubrir"
+  },
+  "home.find-words-in-an-illustrated-scene-meaning-comes-first": {
+    "message": "Encuentra palabras en una escena ilustrada. El significado va primero."
+  },
+  "home.talk": {
+    "message": "Dialogar"
+  },
+  "home.listen-and-explore-short-lines-with-familiar-words": {
+    "message": "Escucha y explora frases cortas con palabras conocidas."
+  },
+  "home.build": {
+    "message": "Formar"
+  },
+  "home.put-consonants-and-vowels-together-in-written-order": {
+    "message": "Une consonantes y vocales en el orden de escritura."
+  },
+  "home.read": {
+    "message": "Leer"
+  },
+  "home.try-the-text-yourself-then-check-your-understanding": {
+    "message": "Intenta leer el texto y después comprueba si lo has entendido."
+  },
+  "home.type": {
+    "message": "Teclear"
+  },
+  "home.optional-keyboard-practice-see-the-word-and-find-its-letters": {
+    "message": "Práctica opcional de teclado. Mira la palabra y busca sus letras."
+  },
+  "home.dao-and-din-beside-a-rice-field-in-phrae-with-a-crow-on-the-fence-and-a-": {
+    "message": "Dao y Din junto a un arrozal en Phrae, con un cuervo en la valla y una serpiente al borde del campo."
+  },
+  "home.tap-a-marker-meet-a-word": {
+    "message": "Toca un marcador. Descubre una palabra."
+  },
+  "home.your-first-words": {
+    "message": "Tus primeras palabras"
+  },
+  "home.written-parts": {
+    "message": "Componentes escritos"
+  },
+  "home.a-tiny-interactive-taste-of-the-app-try-the-crow-or-the-snake": {
+    "message": "Una pequeña muestra interactiva de la app. Prueba con el cuervo o la serpiente."
+  },
+  "home.inside-the-app": {
+    "message": "Dentro de la app"
+  },
+  "home.a-little-help": {
+    "message": "Un poco de ayuda."
+  },
+  "home.right-where-you-need-it": {
+    "message": "Justo donde la necesitas."
+  },
+  "home.no-hunting-through-menus-for-the-letter-you-forgot-tap-a-word-or-symbol-": {
+    "message": "No hace falta buscar por los menús una letra olvidada. Toca una palabra o un símbolo sin perder de vista la historia."
+  },
+  "home.choose-an-app-screenshot": {
+    "message": "Elegir una captura de la app"
+  },
+  "home.view-larger": {
+    "message": "Ampliar ↗"
+  },
+  "home.actual-app-screenshot": {
+    "message": "Captura real de la app"
+  },
+  "home.close-enlarged-screenshot": {
+    "message": "Cerrar la captura ampliada"
+  },
+  "home.close": {
+    "message": "Cerrar ×"
+  },
+  "home.learn-to-read-thai-one-small-story-at-a-time": {
+    "message": "Aprende a leer tailandés, una pequeña historia cada vez"
+  },
+  "home.start-from-zero-with-illustrated-thai-lessons-follow-dao-and-din-from-ph": {
+    "message": "Empieza desde cero con lecciones de tailandés ilustradas. Sigue a Dao y Din de Phrae a Chiang Mai, Bangkok y Hua Hin, en iPhone, iPad y Mac."
+  },
+  "home.a-little-thai-every-day": {
+    "message": "Un poco de tailandés. Cada día."
+  },
+  "home.from-your": {
+    "message": "De tu"
+  },
+  "home.first-letter-to": {
+    "message": "primera letra a"
+  },
+  "home.your-first-story": {
+    "message": "tu primera historia."
+  },
+  "home.you-don-t-need-to-know-the-alphabet-to-begin-meet-dao-and-din-explore-th": {
+    "message": "No necesitas conocer el alfabeto para empezar. Conoce a Dao y Din, explora Tailandia y aprende a leer tailandés, una pequeña lección cada vez."
+  },
+  "home.download-on-the-app-store": {
+    "message": "Descargar en el App Store"
+  },
+  "home.take-a-look-inside": {
+    "message": "Echa un vistazo"
+  },
+  "home.for-iphone-ipad-mac": {
+    "message": "Para iPhone, iPad y Mac"
+  },
+  "home.the-phrae-chapter-is-free": {
+    "message": "El capítulo de Phrae es gratis"
+  },
+  "home.app-overview": {
+    "message": "Resumen de la app"
+  },
+  "home.a-new-way-into-the-thai-script": {
+    "message": "Una nueva forma de acercarte a la escritura tailandesa."
+  },
+  "home.start-from-zero": {
+    "message": "Empieza desde cero"
+  },
+  "home.no-alphabet-test-at-the-door": {
+    "message": "Sin examen de alfabeto al entrar"
+  },
+  "home.read-in-context": {
+    "message": "Lee en contexto"
+  },
+  "home.pictures-people-everyday-life": {
+    "message": "Imágenes, personas y vida diaria"
+  },
+  "home.four-teaching-languages": {
+    "message": "Cuatro idiomas de aprendizaje"
+  },
+  "home.small-steps-a-real-journey": {
+    "message": "Pequeños pasos. Un viaje de verdad."
+  },
+  "home.see-it-hear-it": {
+    "message": "Mira. Escucha."
+  },
+  "home.then-read-it": {
+    "message": "Después lee."
+  },
+  "home.inspired-by-the-natural-method-understandable-scenes-short-texts-and-fam": {
+    "message": "Inspirado en el método natural: escenas comprensibles, textos breves y palabras conocidas que vuelven en nuevas situaciones. Consulta las explicaciones de escritura cuando las necesites."
+  },
+  "home.optional": {
+    "message": "opcional"
+  },
+  "home.walk-through-a-lesson": {
+    "message": "Recorre una lección"
+  },
+  "home.the-script-without-the-overwhelm": {
+    "message": "La escritura, sin agobios"
+  },
+  "home.a-letter": {
+    "message": "Una letra."
+  },
+  "home.a-picture": {
+    "message": "Una imagen."
+  },
+  "home.a-way-to-remember": {
+    "message": "Una forma de recordar."
+  },
+  "home.learn-consonants-by-class-and-explore-vowel-patterns-at-your-own-pace-tr": {
+    "message": "Aprende consonantes por clase y explora los patrones vocálicos a tu ritmo. Nombres tradicionales, asociaciones ilustradas y explicaciones sencillas de los sonidos siempre a mano."
+  },
+  "home.meet-the-thai-script": {
+    "message": "Conoce la escritura tailandesa"
+  },
+  "home.illustrated-chicken-the-traditional-naming-picture-for": {
+    "message": "Una gallina ilustrada, la imagen tradicional asociada a ก"
+  },
+  "home.mid-class-consonant": {
+    "message": "Consonante de clase media"
+  },
+  "home.chicken-your-first-familiar-face": {
+    "message": "Una gallina. Tu primera cara conocida."
+  },
+  "home.the-picture-stays-with-the-letter-in-the-app-s-script-map": {
+    "message": "La imagen acompaña a la letra en el mapa de escritura de la app."
+  },
+  "home.from-phrae-into-the-world": {
+    "message": "De Phrae al mundo"
+  },
+  "home.learn-the-words": {
+    "message": "Aprende las palabras."
+  },
+  "home.live-the-little-stories": {
+    "message": "Vive las pequeñas historias."
+  },
+  "home.dao-and-din-begin-at-home-in-phrae-each-chapter-brings-ten-lessons-local": {
+    "message": "Dao y Din empiezan en casa, en Phrae. Cada capítulo ofrece diez lecciones, comida local y lenguaje cotidiano, a partir de las palabras que ya conoces."
+  },
+  "home.at-the-end-of-each-chapter-a-longer-reading-brings-familiar-vocabulary-t": {
+    "message": "Al final de cada capítulo, un texto más largo reúne el vocabulario conocido en una historia que puedes leer por tu cuenta."
+  },
+  "home.the-journey-keeps-growing": {
+    "message": "El viaje sigue creciendo"
+  },
+  "home.a-new-chapter-every-month": {
+    "message": "Un nuevo capítulo cada mes."
+  },
+  "home.new-places-local-food-and-everyday-thai-built-on-the-words-you-already-k": {
+    "message": "Nuevos lugares, comida local y tailandés cotidiano, con las palabras que ya conoces. Cada nuevo capítulo está incluido en tu suscripción."
+  },
+  "home.start-in-phrae": {
+    "message": "Empieza en Phrae"
+  },
+  "home.your-first-chapter": {
+    "message": "Tu primer capítulo"
+  },
+  "home.is-on-us": {
+    "message": "corre por nuestra cuenta."
+  },
+  "home.learn-thai-script-and-the-phrae-chapter-are-free-continue-the-journey-wi": {
+    "message": "El curso de escritura y el capítulo de Phrae son gratuitos. Continúa el viaje por los capítulos premium con una sola suscripción."
+  },
+  "home.what-s-included": {
+    "message": "Qué incluye"
+  },
+  "home.phrae-learn-thai-script": {
+    "message": "Phrae + Escritura tailandesa"
+  },
+  "home.free": {
+    "message": "Gratis"
+  },
+  "home.meet-the-characters-explore-the-script-start-reading": {
+    "message": "Conoce a los personajes. Explora la escritura. Empieza a leer."
+  },
+  "home.continue-the-journey": {
+    "message": "Continúa el viaje"
+  },
+  "home.usd-month": {
+    "message": "USD / mes"
+  },
+  "home.or-24-99-usd-per-year": {
+    "message": "o 24,99 USD al año"
+  },
+  "home.local-app-store-prices-may-vary-new-chapters-every-month-are-included-in": {
+    "message": "Los precios locales del App Store pueden variar. Los nuevos capítulos mensuales están incluidos en ambos planes."
+  },
+  "home.made-by-a-learner-for-learners": {
+    "message": "De un estudiante, para estudiantes"
+  },
+  "home.let-s-read-a-little": {
+    "message": "Leamos un poco"
+  },
+  "home.thai-today": {
+    "message": "de tailandés hoy."
+  },
+  "home.built-in-phrae-from-a-simple-wish-to-read-more-thai-a-new-chapter-every-": {
+    "message": "Creado en Phrae, con un deseo sencillo: leer más tailandés. Cada mes, un nuevo capítulo trae otro lugar por descubrir."
+  },
+  "home.get-read-thai-daily": {
+    "message": "Descargar Read Thai Daily"
+  },
+  "home.dao-and-din-wave-goodbye-to-a-friend-by-the-sea-in-hua-hin": {
+    "message": "Dao y Din se despiden de un amigo junto al mar en Hua Hin."
+  },
+  "home.explore-word": {
+    "message": "Explorar {meaning}, {thai}"
+  },
+  "home.enlarge-screenshot": {
+    "message": "Ampliar la captura {name}"
+  },
+  "home.screenshot-dialog": {
+    "message": "Captura de la app: {name}"
+  },
+  "home.chapter-image": {
+    "message": "Dao y Din en {place}"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "Esta página ha fallado.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Volver al principio",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.archive.title": {
+    "message": "Archivo",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "Archivo",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "Navegación por la página de la lista de blogs ",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "Entradas más recientes",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "Entradas más antiguas",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "Barra de paginación de publicaciones del blog",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "Publicación más reciente",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "Publicación más antigua",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "Ver Todas las Etiquetas",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.colorToggle.ariaLabel.mode.system": {
+    "message": "modo del sistema",
+    "description": "The name for the system color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "modo claro",
+    "description": "The name for the light color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "modo oscuro",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "Cambiar entre modo oscuro y claro (actualmente {mode})",
+    "description": "The ARIA label for the color mode toggle"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Rastro de navegación",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "Página del documento",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Anterior",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Siguiente",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "Un documento etiquetado|{count} documentos etiquetados",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} con \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "Versión: {versionLabel}"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "Esta es la documentación sin publicar para {siteTitle}, versión {versionLabel}.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "Esta es la documentación para {siteTitle} {versionLabel}, que ya no se mantiene activamente.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "Para la documentación actualizada, vea {latestVersionLink} ({versionLabel}).",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "última versión",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "Editar esta página",
+    "description": "The link label to edit the current page"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "Enlace directo al {heading}",
+    "description": "Title for link to heading"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " en {date}",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " por {user}",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "Última actualización{atDate}{byUser}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.NotFound.title": {
+    "message": "Página No Encontrada",
+    "description": "The title of the 404 page"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Versiones",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "Etiquetas:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Cerrar",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.admonition.caution": {
+    "message": "precaución",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.admonition.danger": {
+    "message": "peligro",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "información",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.note": {
+    "message": "nota",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "consejo",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.warning": {
+    "message": "aviso",
+    "description": "The default label used for the Warning admonition (:::warning)"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "Navegación de publicaciones recientes",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.DocSidebarItem.expandCategoryAriaLabel": {
+    "message": "Ampliar la categoría '{label}' de la barra lateral",
+    "description": "The ARIA label to expand the sidebar category"
+  },
+  "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+    "message": "Colapsar categoría '{label}' de la barra lateral",
+    "description": "The ARIA label to collapse the sidebar category"
+  },
+  "theme.IconExternalLink.ariaLabel": {
+    "message": "(se abre en una nueva pestaña)",
+    "description": "The ARIA label for the external link icon"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "Principal",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.NotFound.p1": {
+    "message": "No pudimos encontrar lo que buscaba.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "Comuníquese con el dueño del sitio que le proporcionó la URL original y hágale saber que su vínculo está roto.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Idiomas",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "En esta página",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.blog.post.readMore": {
+    "message": "Leer Más",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "Leer más acerca de {title}",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "Lectura de un minuto|{readingTime} min de lectura",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "Alternar ajuste de palabras",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "Copiar",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "Copiado",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Copiar código",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "Página de Inicio",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Colapsar barra lateral",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Colapsar barra lateral",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Barra lateral de Documentos",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Cerrar barra de lateral",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Alternar barra lateral",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← Volver al menú principal",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
+    "message": "Expandir el menú desplegable",
+    "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
+    "message": "Contraer el menú desplegable",
+    "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "Expandir barra lateral",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "Expandir barra lateral",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.blog.post.plurals": {
+    "message": "Una publicación|{count} publicaciones",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} etiquetados con \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.blog.author.pageTitle": {
+    "message": "{authorName} - {nPosts}",
+    "description": "The title of the page for a blog author"
+  },
+  "theme.blog.authorsList.pageTitle": {
+    "message": "Autores",
+    "description": "The title of the authors page"
+  },
+  "theme.blog.authorsList.viewAll": {
+    "message": "Ver todos los autores",
+    "description": "The label of the link targeting the blog authors page"
+  },
+  "theme.blog.author.noPosts": {
+    "message": "Este autor aún no ha escrito ninguna publicación.",
+    "description": "The text for authors with 0 blog post"
+  },
+  "theme.contentVisibility.unlistedBanner.title": {
+    "message": "Página sin clasificar",
+    "description": "The unlisted content banner title"
+  },
+  "theme.contentVisibility.unlistedBanner.message": {
+    "message": "Esta página está sin clasificar. Los motores de búsqueda no la indexaran, y solo los usuarios con el enlace directo podrán acceder a esta.",
+    "description": "The unlisted content banner message"
+  },
+  "theme.contentVisibility.draftBanner.title": {
+    "message": "Página en borrador",
+    "description": "The draft content banner title"
+  },
+  "theme.contentVisibility.draftBanner.message": {
+    "message": "Esta página es un borrador. Solo será visible en desarrollo y será excluida de la compilación de producción.",
+    "description": "The draft content banner message"
+  },
+  "theme.docs.DocCard.categoryDescription.plurals": {
+    "message": "1 artículo|{count} artículos",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Intente de nuevo",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "Saltar al contenido principal",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "Etiquetas",
+    "description": "The title of the tag list page"
+  }
+}
