@@ -2,6 +2,7 @@
 id: getting-started
 title: Your first steps into Thai
 sidebar_label: Getting started
+description: "Start learning to read Thai from zero. Meet Dao and Din, explore illustrated words and learn Thai letters step by step on iPhone, iPad and Mac."
 ---
 You can start Read Thai Daily without knowing a single Thai letter. Begin with illustrated letters and familiar words, then build towards reading a short Thai story—one lesson at a time.
 

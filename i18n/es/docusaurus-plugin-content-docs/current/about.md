@@ -2,6 +2,7 @@
 id: about
 title: "Una pequeña app, una razón personal"
 sidebar_label: "Sobre el proyecto"
+description: "Descubre cómo nació Read Thai Daily en Phrae: Dao y Din, historias originales en tailandés y lecciones ilustradas inspiradas en el método natural."
 ---
 
 Read Thai Daily nació de un deseo sencillo: retomar el aprendizaje del tailandés y poder leer más.

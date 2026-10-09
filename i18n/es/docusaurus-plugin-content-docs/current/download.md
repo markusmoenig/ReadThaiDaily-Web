@@ -2,6 +2,7 @@
 id: download
 title: "Descargar Read Thai Daily"
 sidebar_label: "Descargar"
+description: "Descarga Read Thai Daily para iPhone, iPad y Mac. Aprende a leer tailandés con lecciones ilustradas, un curso de escritura y el capítulo de Phrae gratis."
 ---
 
 Aprende a leer tailandés en **iPhone, iPad y Mac**. Conoce a Dao y Din en Phrae y descubre más de Tailandia a medida que mejora tu lectura.

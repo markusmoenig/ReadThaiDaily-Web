@@ -2,6 +2,7 @@
 id: thai-script
 title: "Eine Schrift zum Entdecken"
 sidebar_label: "Die Thai-Schrift"
+description: "Lerne Thai-Konsonanten und Vokale mit Bildern, traditionellen Buchstabennamen und Lauterklärungen. Entdecke die interaktive Schriftübersicht."
 ---
 
 import AppScreenshot from '@site/src/components/AppScreenshot';
@@ -32,5 +33,3 @@ Verständliche Lauterklärungen stehen in deiner gewählten Lernsprache bereit. 
 Schriftkurs und Schriftübersicht verwenden dieselben Zuordnungen. Tippe auf ein Zeichen in einem Wort oder wähle es direkt in der Übersicht. So kannst du es wiederholen, ohne dich weit von der Lektion zu entfernen.
 
 Markiere ein Zeichen als geübt und gehe zum nächsten, oder wähle selbst eines aus. Du musst nicht den ganzen Schriftkurs abschließen, bevor du Phrae erkundest.
-
-Der Screenshot zeigt die englische App-Oberfläche.

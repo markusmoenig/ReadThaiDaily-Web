@@ -2,6 +2,7 @@
 id: faq
 title: "Preguntas frecuentes"
 sidebar_label: "Preguntas frecuentes"
+description: "Respuestas sobre Read Thai Daily: lectura tailandesa para principiantes, idiomas, teclado tailandés, audio, progreso y precios de las suscripciones."
 ---
 
 ## ¿Necesito saber tailandés?
@@ -43,3 +44,8 @@ El capítulo de Phrae y el curso de escritura son gratuitos. El acceso premium c
 ## ¿Cada cuánto añadís capítulos?
 
 Añadimos **un capítulo nuevo cada mes**. Los nuevos capítulos están incluidos en ambos planes y siguen construyendo sobre el vocabulario de lecciones anteriores.
+
+
+## ¿Necesitas ayuda?
+
+Para obtener ayuda con la app, escribe a [nubby.leaving0w@icloud.com](mailto:nubby.leaving0w@icloud.com).

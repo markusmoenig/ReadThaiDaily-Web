@@ -2,6 +2,7 @@
 id: chapters
 title: From Phrae into the world
 sidebar_label: Chapters & pricing
+description: "Explore Thai reading lessons in Phrae, Chiang Mai, Bangkok and Hua Hin. Start with the free Phrae chapter and continue with monthly new chapters."
 ---
 The story starts in Phrae and expands into the rest of Thailand. Each chapter contains **ten lessons**, with food and everyday language alongside the places Dao and Din explore. New vocabulary builds on earlier lessons and returns in new situations.
 

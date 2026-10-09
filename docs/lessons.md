@@ -2,6 +2,7 @@
 id: lessons
 title: Inside a lesson
 sidebar_label: Lesson walkthrough
+description: "See how a Thai reading lesson works: discover words in pictures, listen to dialogue, build words, read a story and practise typing Thai."
 ---
 
 import AppScreenshot from '@site/src/components/AppScreenshot';

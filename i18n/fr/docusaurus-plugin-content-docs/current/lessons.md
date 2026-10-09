@@ -2,6 +2,7 @@
 id: lessons
 title: "À l’intérieur d’une leçon"
 sidebar_label: "Parcourir une leçon"
+description: "Découvrez une leçon de lecture thaïe : explorer les images, écouter les dialogues, assembler des mots, lire une histoire et pratiquer la saisie."
 ---
 
 import AppScreenshot from '@site/src/components/AppScreenshot';
@@ -44,5 +45,3 @@ Le mot reste visible. Il s’agit de trouver ses consonnes et voyelles sur un cl
 ## Vos outils de référence
 
 La section **Mots** conserve un index de vocabulaire et renvoie aux leçons où les mots apparaissent pour la première fois. La **carte de l’écriture** regroupe consonnes et voyelles avec les mêmes images que le cours d’écriture. Vous pouvez copier un mot thaï depuis son panneau d’explication pour le rechercher ailleurs.
-
-Les captures montrent l’interface anglaise de l’application.

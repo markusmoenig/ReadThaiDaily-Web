@@ -2,6 +2,7 @@
 id: thai-script
 title: A script you can explore
 sidebar_label: The Thai script
+description: "Learn Thai consonants and vowels with illustrated associations, traditional letter names and sound explanations. Explore the interactive Thai script map."
 ---
 
 import AppScreenshot from '@site/src/components/AppScreenshot';

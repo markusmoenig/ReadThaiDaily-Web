@@ -2,6 +2,7 @@
 id: about
 title: A small app, a personal reason
 sidebar_label: About the project
+description: "Learn how Read Thai Daily began in Phrae, with Dao and Din, original Thai stories and illustrated lessons inspired by the natural method."
 ---
 Read Thai Daily began with a simple wish: to get back into learning Thai, and to be able to read more of it.
 

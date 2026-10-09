@@ -2,6 +2,7 @@
 id: thai-script
 title: "Une écriture à explorer"
 sidebar_label: "L’écriture thaïe"
+description: "Apprenez les consonnes et voyelles thaïes avec des images, leurs noms traditionnels et des explications sonores. Explorez la carte de l’écriture."
 ---
 
 import AppScreenshot from '@site/src/components/AppScreenshot';
@@ -32,5 +33,3 @@ Les explications simples des sons sont disponibles dans la langue d’apprentiss
 Le cours et la carte de l’écriture partagent les mêmes associations. Touchez un caractère dans un mot pour ouvrir son explication, ou choisissez-le directement dans la carte. Vous pouvez revoir un symbole tout en restant près de la leçon.
 
 Marquez un caractère comme travaillé et passez au suivant, ou choisissez-en un librement. Vous n’avez pas à terminer tout le cours d’écriture avant d’explorer Phrae.
-
-La capture montre l’interface anglaise de l’application.

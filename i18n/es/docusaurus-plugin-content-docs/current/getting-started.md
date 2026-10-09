@@ -2,6 +2,7 @@
 id: getting-started
 title: "Tus primeros pasos en tailandés"
 sidebar_label: "Primeros pasos"
+description: "Aprende a leer tailandés desde cero. Conoce a Dao y Din, explora palabras ilustradas y descubre las letras tailandesas paso a paso."
 ---
 
 Puedes empezar Read Thai Daily sin conocer una sola letra tailandesa. Comienza con letras ilustradas y palabras conocidas y avanza hacia una pequeña historia en tailandés, una lección cada vez.

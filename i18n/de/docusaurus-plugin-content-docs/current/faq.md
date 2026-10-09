@@ -2,6 +2,7 @@
 id: faq
 title: "Häufige Fragen"
 sidebar_label: "Häufige Fragen"
+description: "Antworten zu Read Thai Daily: Thai lesen für Anfänger, Lernsprachen, Thai-Tastatur, Sprachausgabe, Lernfortschritt und Abopreise."
 ---
 
 ## Muss ich schon Thai können?
@@ -43,3 +44,8 @@ Das Phrae-Kapitel und der Schriftkurs sind kostenlos. Premium kostet 2,99 USD mo
 ## Wie oft kommen neue Kapitel hinzu?
 
 Wir ergänzen **jeden Monat ein neues Kapitel**. Neue Kapitel sind in beiden Abos enthalten und bauen weiter auf dem Wortschatz früherer Lektionen auf.
+
+
+## Brauchst du Hilfe?
+
+Bei Fragen zur App schreibe an [nubby.leaving0w@icloud.com](mailto:nubby.leaving0w@icloud.com).

@@ -2,6 +2,7 @@
 id: thai-script
 title: "Una escritura que puedes explorar"
 sidebar_label: "La escritura tailandesa"
+description: "Aprende consonantes y vocales tailandesas con imágenes, nombres tradicionales y explicaciones de sus sonidos. Explora el mapa de la escritura."
 ---
 
 import AppScreenshot from '@site/src/components/AppScreenshot';
@@ -32,5 +33,3 @@ Las explicaciones sencillas de los sonidos están disponibles en el idioma de ap
 El curso y el mapa de escritura comparten las mismas asociaciones. Toca un carácter dentro de una palabra para abrir su explicación o elígelo directamente en el mapa. Así puedes repasar un símbolo sin alejarte de la lección.
 
 Marca un carácter como practicado y pasa al siguiente o elige cualquiera por tu cuenta. No necesitas completar todo el curso de escritura antes de explorar Phrae.
-
-La captura muestra la interfaz inglesa de la app.

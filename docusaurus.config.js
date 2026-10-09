@@ -6,6 +6,7 @@ const config = {
   url: 'https://readthaidaily.com',
   baseUrl: '/',
   trailingSlash: true,
+  clientModules: ['./src/language-routing.js'],
   onBrokenLinks: 'throw',
   onBrokenAnchors: 'throw',
   i18n: {

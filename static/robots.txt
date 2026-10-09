@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://readthaidaily.com/sitemap.xml
+Sitemap: https://readthaidaily.com/de/sitemap.xml
+Sitemap: https://readthaidaily.com/fr/sitemap.xml
+Sitemap: https://readthaidaily.com/es/sitemap.xml

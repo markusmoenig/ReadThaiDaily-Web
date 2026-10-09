@@ -2,6 +2,7 @@
 id: lessons
 title: "So funktioniert eine Lektion"
 sidebar_label: "Eine Lektion kennenlernen"
+description: "So funktioniert eine Thai-Leselektion: Wörter im Bild entdecken, Dialoge hören, Wörter bauen, Geschichten lesen und Thai tippen üben."
 ---
 
 import AppScreenshot from '@site/src/components/AppScreenshot';
@@ -44,5 +45,3 @@ Das Wort bleibt sichtbar. Suche seine Konsonanten und Vokale auf einer Thai-Tast
 ## Deine Nachschlagehilfen
 
 **Wörter** führt ein Wortverzeichnis und verlinkt zur Lektion, in der ein Wort eingeführt wurde. Die **Schriftübersicht** gruppiert Konsonanten und Vokale mit denselben Bildern wie der Schriftkurs. Du kannst Thai-Wörter aus dem Erklärungsbereich kopieren und außerhalb der App nachschlagen.
-
-Die Screenshots zeigen die englische App-Oberfläche.

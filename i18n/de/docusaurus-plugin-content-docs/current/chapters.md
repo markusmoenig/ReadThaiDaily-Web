@@ -2,6 +2,7 @@
 id: chapters
 title: "Von Phrae in die Welt"
 sidebar_label: "Kapitel & Preise"
+description: "Entdecke Thai-Leselektionen in Phrae, Chiang Mai, Bangkok und Hua Hin. Das Phrae-Kapitel ist kostenlos; jeden Monat kommt ein neues Kapitel hinzu."
 ---
 
 Die Geschichte beginnt in Phrae und führt durch Thailand. Jedes Kapitel enthält **zehn Lektionen**, mit Essen und Alltagssprache neben den Orten, die Dao und Din erkunden. Neue Wörter bauen auf früheren Lektionen auf und kehren in neuen Situationen wieder.

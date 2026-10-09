@@ -2,6 +2,7 @@
 id: privacy
 title: Privacy
 sidebar_label: Privacy
+description: "Read how Read Thai Daily handles local learning progress, Apple subscriptions, support emails and website data, with no app accounts or cloud sync."
 ---
 _Last updated: 8 October 2026._
 
@@ -25,6 +26,17 @@ Apple’s own privacy information applies to its services: [Apple privacy](https
 
 ## This website
 
+The website uses your browser’s language preferences for the first homepage visit. If you choose a language in the menu, that choice is saved in your browser’s local storage for future visits. This preference is not sent to the developer. Direct links to a language-specific page keep that language.
+
 This site does not include analytics, advertising scripts, tracking cookies, newsletter forms or account sign-in. Fonts and images are served with the site. The hosting provider may process standard request logs such as IP addresses and browser details to deliver pages.
 
 Links to Apple and other external sites are subject to those sites’ privacy practices. The website’s static implementation does not itself collect learning progress.
+
+
+## Data retention and deletion
+
+Learning progress stays on your device until you remove the app’s local data. On iPhone and iPad, deleting the app (rather than offloading it) removes its local progress. On Mac, removing the app alone may leave saved local data. Device backups are managed through your Apple/device settings. Cancelling a subscription does not delete progress; deleting the app does not cancel a subscription. The developer does not keep a copy of your lesson answers on a server.
+
+## Contact
+
+For support or privacy questions, email [nubby.leaving0w@icloud.com](mailto:nubby.leaving0w@icloud.com).

@@ -2,6 +2,7 @@
 id: getting-started
 title: "Vos premiers pas en thaï"
 sidebar_label: "Bien commencer"
+description: "Apprenez à lire le thaï en partant de zéro. Rencontrez Dao et Din, explorez des mots illustrés et découvrez les lettres thaïes pas à pas."
 ---
 
 Vous pouvez commencer Read Thai Daily sans connaître une seule lettre thaïe. Découvrez des lettres illustrées et des mots familiers, puis progressez vers une petite histoire en thaï, une leçon à la fois.

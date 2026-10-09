@@ -2,6 +2,7 @@
 id: chapters
 title: "De Phrae al mundo"
 sidebar_label: "Capítulos y precios"
+description: "Explora lecciones de lectura en Phrae, Chiang Mai, Bangkok y Hua Hin. El capítulo de Phrae es gratis y cada mes se añade un nuevo capítulo."
 ---
 
 La historia empieza en Phrae y se extiende por Tailandia. Cada capítulo contiene **diez lecciones**, con comida y lenguaje cotidiano junto a los lugares que exploran Dao y Din. El vocabulario nuevo se apoya en las lecciones anteriores y vuelve en nuevas situaciones.

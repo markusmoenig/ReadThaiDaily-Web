@@ -2,6 +2,7 @@
 id: faq
 title: A few common questions
 sidebar_label: Common questions
+description: "Answers about learning Thai with Read Thai Daily: beginner lessons, supported languages, Thai keyboards, audio, progress and subscription pricing."
 ---
 ## Do I need to know Thai already?
 
@@ -42,3 +43,8 @@ The Phrae chapter and Learn Thai Script are free. Premium pricing is USD $2.99 m
 ## How often are new chapters added?
 
 We add **a new chapter every month**. New chapters are included in both subscription plans and continue building on the vocabulary from earlier lessons.
+
+
+## Need help?
+
+For app support, email [nubby.leaving0w@icloud.com](mailto:nubby.leaving0w@icloud.com).

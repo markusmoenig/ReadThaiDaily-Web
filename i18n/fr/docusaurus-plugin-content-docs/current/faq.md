@@ -2,6 +2,7 @@
 id: faq
 title: "Quelques questions fréquentes"
 sidebar_label: "Questions fréquentes"
+description: "Les réponses sur Read Thai Daily : débuter en lecture thaïe, langues disponibles, clavier thaï, audio, progression et tarifs des abonnements."
 ---
 
 ## Faut-il déjà connaître le thaï ?
@@ -43,3 +44,8 @@ Le chapitre de Phrae et le cours d’écriture sont gratuits. L’offre premium 
 ## À quelle fréquence ajoutez-vous des chapitres ?
 
 Nous ajoutons **un nouveau chapitre chaque mois**. Ils sont inclus dans les deux formules et continuent de s’appuyer sur le vocabulaire des leçons précédentes.
+
+
+## Besoin d’aide ?
+
+Pour obtenir de l’aide, écrivez à [nubby.leaving0w@icloud.com](mailto:nubby.leaving0w@icloud.com).

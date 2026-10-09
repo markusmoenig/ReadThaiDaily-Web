@@ -2,6 +2,7 @@
 id: getting-started
 title: "Deine ersten Schritte ins Thai"
 sidebar_label: "Erste Schritte"
+description: "Lerne Thai lesen ohne Vorkenntnisse. Entdecke mit Dao und Din illustrierte Wörter und lerne die Thai-Schrift Schritt für Schritt."
 ---
 
 Du kannst mit Read Thai Daily beginnen, ohne einen einzigen Thai-Buchstaben zu kennen. Starte mit illustrierten Buchstaben und vertrauten Wörtern und arbeite dich zu einer kurzen Thai-Geschichte vor – eine Lektion nach der anderen.
